@@ -5,5 +5,6 @@ int main() {
     printf("paul!\n");
     printf("good\n");
     printf("yes!\n");
+	printf("bye!\n");
     return 0;
 }
